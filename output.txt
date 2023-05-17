@@ -1,2 +1,3 @@
-Address of x in fun 0061FF00
-Address of x in main 0061FF1C
+address of p is 0061FF1C
+200
+address of x 0061FF1C
