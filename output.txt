@@ -1,3 +1,8 @@
-address of p is 0061FF1C
-200
-address of x 0061FF1C
+address of 0th index 0061FF0C
+address of arr index 0061FF0C
+value of 0th index 10
+value of 0th index 10
+value of second element 20
+value of second element 20
+value of second element 20
+value of second element 20
